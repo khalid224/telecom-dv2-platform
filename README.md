@@ -1,6 +1,6 @@
 ﻿# telecom-dv2-platform
 
-# 📡 Telecom Analytics Platform — Data Vault 2.0
+#  Telecom Analytics Platform — Data Vault 2.0
 
 ##  Overview
 
