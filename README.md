@@ -63,7 +63,9 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 
 <img width="924" height="424" alt="WhatsApp Image 2026-05-01 at 9 02 23 PM (1)" src="https://github.com/user-attachments/assets/a6e4ef6d-7242-4dba-a701-c6164135ffb9" />
 
+
 <img width="1048" height="503" alt="WhatsApp Image 2026-05-01 at 9 02 23 PM (2)" src="https://github.com/user-attachments/assets/d2cafe7c-3c0e-4089-bb30-291540d08d24" />
+
 
 <img width="1195" height="316" alt="WhatsApp Image 2026-05-01 at 9 02 23 PM" src="https://github.com/user-attachments/assets/9c887024-36df-4b0b-890c-3ae4b996423b" />
 
