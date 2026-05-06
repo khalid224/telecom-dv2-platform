@@ -198,9 +198,5 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 
 ---
 
-## Author
-
-**Khalid Mohamed**
-
 
 ---
