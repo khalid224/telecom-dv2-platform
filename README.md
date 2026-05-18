@@ -175,6 +175,146 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 
 ---
 
+# Business Insights & KPI Analysis
+
+## KPI 1: Which Customers Are Likely to Churn?
+
+### INSIGHT #1: Prepaid Customers Have the Highest Churn Risk
+Most high-risk customers belong to the **Prepaid** segment.  
+This suggests that prepaid users are less loyal and more likely to switch providers.
+
+### INSIGHT #2: Customers with Low Tenure Are More Likely to Churn
+Many churned customers have very low tenure values (1–10 months).
+
+This indicates that customers are most likely to leave during the early stage of their subscription lifecycle.
+
+### INSIGHT #3: Certain Cities Show Higher Churn Rates
+Cities such as:
+
+- Cairo
+- Aswan
+- Alexandria
+
+show relatively high churn percentages.
+
+This may indicate regional service quality or customer satisfaction issues.
+
+---
+
+## KPI 2: Why Are Customers Likely to Churn?
+
+### INSIGHT #4: High Monthly Charges Increase Churn Risk
+Churned customers pay an average monthly charge of approximately **$74**, while active customers pay around **$61**.
+
+This suggests that expensive services or plans may push customers to leave.
+
+### INSIGHT #5: Churned Customers Usually Have Shorter Relationships
+Active customers stay for an average of about **38 months**, while churned customers stay only about **18 months**.
+
+This means long-term customers are generally more loyal.
+
+---
+
+## KPI 3: Are Payment Failures Related to Churn?
+
+### INSIGHT #6: Failed Payments Are Strongly Associated with Churn
+Churned customers have significantly more failed payments compared to active customers.
+
+- Active customers average: **0.09** failed payments
+- Churned customers average: **0.84** failed payments
+
+This indicates that payment issues may be an early warning sign of customer churn.
+
+### INSIGHT #7: Customers with Multiple Failed Payments Are Mostly Churned
+Customers with the highest number of failed payments are almost entirely labeled as churned customers.
+
+This suggests financial issues or dissatisfaction with the service.
+
+---
+
+## KPI 4: Are Dropped Calls and Tower Issues Affecting Satisfaction?
+
+### INSIGHT #8: Churned Customers Experience More Dropped Calls
+Churned customers have a much higher average call drop rate compared to active customers.
+
+- Active customers drop rate: **5%**
+- Churned customers drop rate: **30%**
+
+This strongly suggests that poor network quality contributes to customer churn.
+
+### INSIGHT #9: Some Towers Have Poor Network Performance
+Towers such as:
+
+- TOWER_019
+- TOWER_006
+- TOWER_031
+
+show the highest dropped call percentages.
+
+These towers may require maintenance or network optimization.
+
+---
+
+## KPI 5: Which Plans, Regions, or Segments Generate Revenue or Risk?
+
+### INSIGHT #10: Prepaid Segment Generates the Highest Revenue
+The Prepaid segment generates the highest total revenue among all customer segments.
+
+However, it also has the highest churn risk.
+
+This creates a major business challenge:
+
+- High revenue
+- But unstable customer retention
+
+### INSIGHT #11: Major Cities Drive Most Revenue
+Cities like:
+
+- Mansoura
+- Tanta
+- Aswan
+- Luxor
+
+generate the highest telecom revenue.
+
+These cities are critical business markets for the company.
+
+### INSIGHT #12: PLAN_A Is the Highest-Risk Plan
+PLAN_A has the highest churn rate at around **42.7%**.
+
+This may indicate:
+
+- Pricing problems
+- Weak customer satisfaction
+- Poor perceived value
+
+### INSIGHT #13: Business Customers Are the Most Stable Segment
+Business customers have the lowest churn rate and more stable subscription behavior.
+
+This makes them one of the most valuable customer groups for long-term profitability.
+
+---
+
+# Final Business Conclusion
+
+The analysis shows that customer churn is mainly influenced by:
+
+- High monthly charges
+- Payment failures
+- Dropped calls and network quality
+- Customer segment type
+- Plan selection
+
+### Recommended Actions
+
+- Improve prepaid customer retention
+- Reduce dropped calls and network issues
+- Monitor failed payments proactively
+- Optimize high-risk plans like PLAN_A
+- Improve customer experience in high-churn cities
+
+---
+
 ##  How to Run
 
 1. Load source CSV files into staging tables
