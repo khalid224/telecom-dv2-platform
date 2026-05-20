@@ -138,6 +138,7 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 ---
 
 ###  Data Mart Layer
+<img width="1599" height="912" alt="WhatsApp Image 2026-05-20 at 11 45 12 AM (1)" src="https://github.com/user-attachments/assets/c973adf4-5311-432a-abb0-4d5faf8795ea" />
 
 #### Fact Tables
 
@@ -156,6 +157,7 @@ Sources → Staging (STG) → Data Vault (Hubs, Links, Satellites) → Business 
 ---
 
 ##  Dashboards (Power BI)
+<img width="1310" height="737" alt="WhatsApp Image 2026-05-20 at 11 45 12 AM" src="https://github.com/user-attachments/assets/9c6059e6-efeb-4bd5-99d9-4bfd34b24256" />
 
 *  Executive Overview
 *  Churn Risk Monitor
